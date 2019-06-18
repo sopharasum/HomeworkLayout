@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">LayoutHomework</string>
+    <string name="appHeaderDesc">Header</string>
+    <string name="appStarDesc">star</string>
+    <string name="appTitle">Phnom Penh - CAMBODIA</string>
+    <string name="appCamera">Camera</string>
+    <string name="appCameraDesc">Leica M Type 240</string>
+    <string name="appSetting">Settings</string>
+    <string name="appSettingDesc">f/4 16s ISO 200</string>
+    <string name="appDescription">Phnom Penh, Cambodia’s busy capital, sits at the junction of the Mekong and Tonlé Sap rivers. It was a hub for both the Khmer Empire and French colonialists. On its walkable riverfront, lined with parks, restaurants and bars, are the ornate Royal Palace, Silver Pagoda and the National Museum, displaying artifacts from around the country. At the city’s heart is the massive, art deco Central Market.</string>
+    <string name="appDiscard">Discard</string>
+    <string name="appUpload">Upload</string>
 </resources>
